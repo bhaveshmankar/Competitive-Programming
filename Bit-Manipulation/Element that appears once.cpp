@@ -21,12 +21,7 @@ Sample Input 2:
 1 3 3 3 1 1 4
 Sample Output 2:
 4
-            unique_number |= (1 << i);
-        }
-    }
-
-    return unique_number;
-}
+        
 
 // Code 
 
