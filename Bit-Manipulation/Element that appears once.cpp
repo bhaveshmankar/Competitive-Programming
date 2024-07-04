@@ -1,3 +1,4 @@
+/*
 Problem statement
 You are given an arbitrary array ‘arr’ consisting of N non-negative integers, where every element appears thrice except one. You need to find the element that appears only once.
 
@@ -21,7 +22,7 @@ Sample Input 2:
 1 3 3 3 1 1 4
 Sample Output 2:
 4
-        
+ */       
 
 // Code 
 
